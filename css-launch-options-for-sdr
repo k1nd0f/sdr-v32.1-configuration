@@ -1,0 +1,1 @@
+-novid -window -high -w 1920 -h 1080 -console +fps_max 0 +sv_cheats 1 +cl_drawhud 0 +r_drawviewmodel 0 +r_drawparticles 0 +r_drawbatchdecals 0 +r_drawdecals 0 +r_drawothermodels 0 +voice_enable 0 +exec sdr
